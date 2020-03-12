@@ -13,4 +13,5 @@ public class ArraySplitTest {
         }
         System.out.println(str.length);
     }
+    public void testGit(){}
 }
