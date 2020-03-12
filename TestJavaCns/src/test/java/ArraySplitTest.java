@@ -12,6 +12,6 @@ public class ArraySplitTest {
             System.out.println(str[i]);
         }
         System.out.println(str.length);
+        System.out.println("test01111");
     }
-    public void testGit(){}
 }
